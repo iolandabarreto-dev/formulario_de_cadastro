@@ -4,7 +4,7 @@
 🚀 Sobre o projeto
 
 Este projeto é uma aplicação web que permite cadastrar, listar, pesquisar e remover clientes, com integração à API ViaCEP para preenchimento automático de endereço e geração de avatares personalizados.  
-Foi desenvolvido para fins educacionais e de portfólio.
+
 
 📚 Este projeto foi proposto pela AdaTech, como parte do programa CaixaVerso — Desenvolvimento Front-End Nível 1.
 
