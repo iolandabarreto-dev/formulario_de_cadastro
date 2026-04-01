@@ -1,6 +1,7 @@
-🚀 **Sistema de Cadastro de Clientes**
+## Sistema de Cadastro de Clientes
 
-## Sobre o projeto
+🚀 Sobre o projeto
+
 Este projeto é uma aplicação web que permite cadastrar, listar, pesquisar e remover clientes, com integração à API ViaCEP para preenchimento automático de endereço e geração de avatares personalizados.  
 Foi desenvolvido para fins educacionais e de portfólio.
 
